@@ -1,5 +1,17 @@
 # electron-quick-start
 
+## FABIC
+
+__*2017-12-01*__ Electron playground.
+
+### Run tests (Spectron & Mocha)
+
+```bash
+./node_modules/.bin/mocha tests/
+```
+
+<hr/>
+
 **Clone and run for a quick way to see Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation.
