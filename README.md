@@ -2,9 +2,13 @@
 
 ## FABIC
 
-__*2017-12-01*__ Electron playground.
+__*2017-12-01*__ Electron playground, forked from [electron-quick-start](https://github.com/electron/electron-quick-start) .
 
 ### Run tests (Spectron & Mocha)
+
+* [mochajs.org](https://mochajs.org/)
+* [Spectron](https://electronjs.org/spectron)
+* [electronjs.org/docs/tutorial/*using-selenium-and-webdriver*](https://electronjs.org/docs/tutorial/using-selenium-and-webdriver)
 
 ```bash
 ./node_modules/.bin/mocha tests/
